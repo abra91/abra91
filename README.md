@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @abra91
 B.Eng(Mechatronics) ,  M.Sc (Research Development)(in progress)
 - 👀 I’m interested in ...
-  * Programming (C++ , Matlab)
+  * Programming (C++ ,Python,Bash, Matlab)
   * Electronics
   * MTB
   * Sailing
 - 🌱 I’m currently learning ...
-  * Python with AI
-  * Kalman filter
+  * Imageprocessing
   
 - 💞️ I’m looking to collaborate on ...
   * Projects with Raspi or ESP8266
