@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abra91
-B.Eng(Mechatronics) ,  M.Sc (Research Development)(in progress)
 - 👀 I’m interested in ...
   * Programming (C++ ,Python,Bash, Matlab)
   * Electronics
